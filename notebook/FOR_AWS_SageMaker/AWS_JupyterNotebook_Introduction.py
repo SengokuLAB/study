@@ -33,12 +33,12 @@ role = get_execution_role()
 # In[139]:
 
 
-BUCKET = 'microbase' #バケット名を入力
-inpath = "User/miyamoto/scotlip/src/scotlip/" #入力データまでのパス
+BUCKET = 'yourbucketname' #バケット名を入力
+inpath = "file/to/path/" #入力データまでのパス
 infile = "scotlip.csv" #入力データのファイル名
 KEY = inpath + infile
 
-outpath = "User/miyamoto/scotlip/dev/"
+outpath = "out/to/path/"
 outfile = "scot_test.csv"
 outKEY = outpath + outfile
 
