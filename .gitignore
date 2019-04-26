@@ -1,0 +1,11 @@
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.shp
+*.shx
+*.dbf
+*.prj
+*-checkpoint-checkpoint.ipynb
+Iconr
+
