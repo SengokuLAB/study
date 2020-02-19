@@ -1,0 +1,6 @@
+awscli
+nkf
+pyproj
+jupyter
+pandas
+dateutils
